@@ -1,0 +1,9 @@
+<?php
+$users=array(
+    "test@test.com"=>array(
+        "first_name"=>"user",
+        "last_name"=>"name",
+        "password"=>"1234"
+    ),
+);
+?>
